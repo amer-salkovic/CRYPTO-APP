@@ -2,7 +2,7 @@
 import { Route } from "react-router-dom"
 import { Routes } from "react-router-dom"
 
-import { NavBar } from "./Components/NavBar/NavBar"
+import  NavBar  from "./Components/NavBar/NavBar"
 import { Home } from "./Components/Home/Home"
 import { Coins } from "./Components/Coins/Coins"
 import { AboutUs } from "./Components/AboutUs/AboutUs"
