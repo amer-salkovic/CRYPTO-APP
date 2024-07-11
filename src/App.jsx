@@ -8,7 +8,7 @@ import { Coins } from "./Components/Coins/Coins"
 import { AboutUs } from "./Components/AboutUs/AboutUs"
 import { Favorite } from "./Components/Favorite/Favorite"
 import { LogIn } from "./Components/LogIn/LogIn"
-import { Footer } from "./Components/Footer/Footer"
+import  Footer  from "./Components/Footer/Footer"
 
 function App() {
   return (
