@@ -18,12 +18,8 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/coins" element={<Coins />} />
         <Route path="/about-us" element={<AboutUs />} />
-
         <Route path="/favorite" element={<Favorite />} />
         <Route path="/log-in" element={<LogIn />} />
-
-        <Route path="/favourite" element={<Favorite />} />
-        <Route path="/logIn" element={<LogIn />} />
       </Routes>
       <Footer />
     </>
