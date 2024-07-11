@@ -1,1 +1,1 @@
-export function NavBar() {}
+export default function NavBar() {}
